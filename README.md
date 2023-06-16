@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @rosenfoi
-- im lazy as hell so i like making my code short n snappy
+- im lazy as hell
